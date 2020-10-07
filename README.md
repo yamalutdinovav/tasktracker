@@ -1,12 +1,13 @@
-# Lead Manager
+# TaskTracker
 
-> Full stack Django/React/Redux app that uses token based authentication with Knox.
+TaskTracker is a React-based web application which provides you a task board.
 
 ## Quick Start
 
 ```bash
 # Install dependencies
 npm install
+yarn insttall
 
 # Serve API on localhost:8000
 python leadmanager/manage.py runserver
