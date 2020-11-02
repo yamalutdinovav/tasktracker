@@ -7,7 +7,7 @@ TaskTracker is a React-based web application which provides you a task board.
 ```bash
 # Install dependencies
 npm install
-yarn insttall
+yarn install
 
 # Serve API on localhost:8000
 python leadmanager/manage.py runserver
